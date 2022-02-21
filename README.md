@@ -8,4 +8,4 @@ the app can be accessed by visiting https://domain-starter-project-1.wande.repl.
 
 the contract for this app was deployed on the `polygon testnet`. 
 
-#three letters domain cost  0.5Matic, four letters domain cost 0.4Matic and domains greater than four letters cost 0.1Matic.
+#three letter domain cost  0.5Matic, four letter domain cost 0.4Matic and domains greater than four letters cost 0.1Matic.
