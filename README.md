@@ -1,13 +1,11 @@
-## Running React on Repl.it
+## A web-app for minting .wiz domains
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+The webapp allows you mint your favorite domain name with a custom extension(.wiz)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+For every mint, users get a free NFT.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+the app can be accessed by visiting https://domain-starter-project-1.wande.repl.co/
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+the contract for this app was deployed on the `polygon testnet`. 
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+#three letters domain cost  0.5Matic, four letters domain cost 0.4Matic and domains greater than four letters cost 0.1Matic.
